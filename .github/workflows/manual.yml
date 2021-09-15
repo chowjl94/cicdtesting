@@ -1,5 +1,3 @@
-In the same repository, create a file named manual.yml in the .github/workflows folder
-Add the code below to the newly created file
 name: manual
 on:
   workflow_dispatch:
